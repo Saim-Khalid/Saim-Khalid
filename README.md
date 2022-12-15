@@ -1,3 +1,5 @@
+![logo](https://github.com/Saim-Khalid/Saim-Khalid/blob/main/BANNER.png)
+
 <h1 align="center">Hi 👋, I'm Saim Khalid</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer (Computer Vision)</h3>
 
