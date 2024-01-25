@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Pytorch, Tensorflow**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saim-Khalid](https://github.com/Saim-Khalid)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/Saim-Khalid)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mz8EqqZsu5tmYIUKIGwL529YXOlDFHTL/view?usp=sharing](https://drive.google.com/file/d/1mz8EqqZsu5tmYIUKIGwL529YXOlDFHTL/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1js4iSoKQSVmwKlr81om9GgCgvK8d1XXy/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Photographer and a Designer too!**
 
